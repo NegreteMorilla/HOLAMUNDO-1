@@ -6,6 +6,7 @@ public class principal {
 		for(contador=0;contador<=3;contador++) {
 			System.out.println("HOLA MUNDO");
 		}
+		System.out.println("ADIOS");
 	}
 
 }
