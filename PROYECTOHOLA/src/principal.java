@@ -7,6 +7,7 @@ public class principal {
 			System.out.println("HOLA MUNDO");
 		}
 		System.out.println("ADIOS");
+		System.out.println("jorge");
 	}
 
 }
